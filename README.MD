@@ -1,4 +1,4 @@
-# ITStudio KnowLiber 爱特知识分享系统
+# ITStudio KnowLibrary 爱特知识分享系统
 
 ## 项目简介
 
